@@ -1,7 +1,8 @@
-#🎮 Xbox Gaming Subscription Dashboard
+# Xbox Gaming Subscription Dashboard
+
 Este projeto faz parte do Bootcamp Engenharia de dados e IA, na plataforma DIO.me e consiste num dashboard analítico desenvolvido em Excel para monitorizar a performance de subscrições de serviços de gaming (Xbox Core, Standard e Ultimate). O dashboard transforma dados brutos de vendas em insights estratégicos sobre faturação, retenção e adesão a serviços adicionais.
 
-##📊 Indicadores Principais (KPIs)
+## 📊 Indicadores Principais (KPIs)
 O dashboard foca-se em quatro métricas vitais:
 
 Total Revenue: Faturação bruta acumulada.
@@ -12,7 +13,7 @@ Auto-Renewal Rate: Percentagem de utilizadores com a renovação automática ati
 
 Add-on Conversion: Taxa de adesão aos passes de temporada (EA Play e Minecraft).
 
-##🗂️ Estrutura do Arquivo
+## 🗂️ Estrutura do Arquivo
 O ficheiro Excel está dividido nas seguintes abas:
 
 Dashboard: Visualização principal com gráficos e cartões de KPI.
